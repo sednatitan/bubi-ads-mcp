@@ -1,0 +1,15 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.bubiads/mcp",
+  "title": "Bubi Ads",
+  "description": "AI ad manager for local businesses: Meta, Google Ads, TikTok and ChatGPT Ads from your assistant.",
+  "version": "1.0.0",
+  "websiteUrl": "https://bubiads.com",
+  "icons": [
+    { "src": "https://bubiads.com/assets/brand/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
+    { "src": "https://bubiads.com/assets/brand/icon-192.png", "mimeType": "image/png", "sizes": ["192x192"] }
+  ],
+  "remotes": [
+    { "type": "streamable-http", "url": "https://bubiads.com/mcp" }
+  ]
+}
