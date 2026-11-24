@@ -3,8 +3,9 @@
   "name": "com.bubiads/mcp",
   "title": "Bubi Ads",
   "description": "AI ad manager for local businesses: Meta, Google Ads, TikTok and ChatGPT Ads from your assistant.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://bubiads.com",
+  "repository": { "url": "https://github.com/sednatitan/bubi-ads-mcp", "source": "github" },
   "icons": [
     { "src": "https://bubiads.com/assets/brand/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
     { "src": "https://bubiads.com/assets/brand/icon-192.png", "mimeType": "image/png", "sizes": ["192x192"] }
